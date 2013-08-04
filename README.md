@@ -1,4 +1,6 @@
-# node-session-m - a session manager based http-cookie.
+# node-session-m
+
+a session manager based http-cookie.
 
 ## usage
 
